@@ -1,0 +1,2 @@
+explorer .
+o start abre el directorio o carpeta
